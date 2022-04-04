@@ -1,2 +1,2 @@
-# growdev-stater-7-turma1
+Introdução à Programação Web
 Repositório destinado a atividades em curso
